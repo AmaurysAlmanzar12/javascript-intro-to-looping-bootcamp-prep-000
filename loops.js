@@ -20,7 +20,7 @@ function whileLoop (n) {
 }
 
 
-function doWhileLoop(1){
+function doWhileLoop(0){
 do {
   console.log("I run once regardless.");
 } while (incrementVariable() < 5);
