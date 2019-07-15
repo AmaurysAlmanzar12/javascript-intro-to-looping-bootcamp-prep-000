@@ -18,3 +18,10 @@ function whileLoop (n) {
   }
   return ('done')
 }
+
+
+function doWhileLoop(1){
+do {
+  console.log("I run once regardless.");
+} while (incrementVariable() < 5);
+}
